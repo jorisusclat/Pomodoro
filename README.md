@@ -1,3 +1,3 @@
-# pomodoro
+# Pomodoro
 
-Pomodoro app in react native
+Pomodoro app in react native and expo.
